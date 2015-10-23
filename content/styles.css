@@ -1,0 +1,29 @@
+body>head{
+    background:#eee;
+    padding: 5px;
+}
+body>header>a>img, body>header ul, body>header ul>li {
+    dosplay: inline-block;
+    vertical-align: middle; 
+}
+
+body>footer{
+    background:#eee;
+    padding: 5px;
+    text-align: center;
+}
+li.info{
+    background: green;
+}
+
+li.error{
+    background: red;
+}
+
+#logged-in-info{
+    float:right;
+}
+#logged-in-info{
+    display: inline-block;
+    
+}
